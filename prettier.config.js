@@ -5,5 +5,6 @@ module.exports = {
 	printWidth: 120,
 	trailingComma: 'all',
 	arrowParens: 'always',
+	objectWrap: 'preserve',
 	tabWidth: 4,
 }
